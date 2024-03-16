@@ -10,6 +10,16 @@ This is Keven Ge, from UCAS.
 
 个人主页：XXX
 
+我的编程语言技能：  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
+  </div>
+
+
+我的技能：
+
 <p>
   <strong>Check out my work below!</strong>
   <br><br>
@@ -36,6 +46,9 @@ This is Keven Ge, from UCAS.
 - LeetCode
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevenGe)
+
+<!-- from https://github.com/Ashutosh00710/github-readme-activity-graph -->
+[![KevenGe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevenGe&theme=github)](https://github.com/KevenGe)
 
 <!--
 **KevenGe/kevenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
