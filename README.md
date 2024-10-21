@@ -32,6 +32,56 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+## My GPG Public Key
+
+If you want to send me messages or files that only I can read, you can encrypt them using the **GPG public key** below.
+
+<details>
+  <summary>My GPG Public Key (Click to expand)</summary>
+  <pre><blockcode> 
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=6fEA
+-----END PGP PUBLIC KEY BLOCK-----
+  </blockcode></pre>
+</details>
 
 ## Languages and Tools  
 <div align="center">  
