@@ -1,4 +1,4 @@
-## Hey 👋, I'm Qifeng Ge  
+## Hey 👋, I'm Qifeng 
   
 
 <a href="https://github.com/KevenGe" target="_blank">
@@ -6,31 +6,50 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+My name is Qifeng and my research interests lie in the field of **vision SLAM**, a topic I am currently pursuing as a doctoral candidate at UCAS.
 
-<br/>  
+I have a profound interest in the fields of computer 2D and 3D vision, and am dedicated to addressing real-world challenges through scientific research. Throughout my academic career, I have consistently striven to integrate theoretical knowledge with practical applications, with the objective of advancing scientific and technological progress and social development.
 
+As a researcher and programmer, I recognise the value of open science and knowledge sharing. Consequently, I engage actively with open source projects with the objective of facilitating the work of others through my contributions. I disseminate my code, datasets and research results via the GitHub platform, with the objective of facilitating collaboration with scientists and technology enthusiasts across the globe.
 
-## Rapidfire  
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+<br/> 
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+## Research Interests:
+- **Visual SLAM**: the primary objective is to enhance the matching velocity and precision of pure visual SLAM in UAV view.
+- **Feature Matching**: The primary focus of the research is to enhance the matching speed in the context of ultra-high definition images captured from unmanned aerial vehicles (UAVs) at 8K resolution.
+- **Object Detection (Object Tracking)**: The primary focus of my research is to enhance the precision of the algorithmic detection in unmanned aerial vehicle (UAV) imagery.
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+In addition to my primary research interests, I also have a number of other personal interests.
+- **Practicing Coding Problems**: This term is used to describe the process of raising queries about [LeetCode](https://leetcode.cn/), [CodeForce](https://codeforces.com/) and other similar platforms.
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-  
+<br/> 
 
-<br/>  
+## Open Source Contributions:
+
+For Coding Problems:
+- [**LeetCode Solutions**](https://github.com/KevenGe/LeetCode-Solutions)
+
+For Front Name:
+- [**YuqueTools**](https://github.com/KevenGe/YuqueTools/tree/develop)
+- [**techtrainingcamp**](https://github.com/KevenGe/techtrainingcamp-b-fe-geqifeng)
+
+For FPGA:
+- [**GeMIPS**](https://gitee.com/kevenge/GeMIPS): This project represents an entry code for the 2020 National Computer System Proficiency Competition Individual Competition (2020计算机系统能力大赛（龙芯杯）), and won **the third prize of the national individual competition**. This project comprises a MIPS CPU, written in the Verilog language. It supports and tests 22 MIPS instructions on an FPGA board. Please refer to the project for further information.
+
+<br/> 
+
+## Technical Skills:
+- **Programming Languages**: C++, Python, Golang, Rust, JavaScript, etc.
+- **Data analysis tools**: Pandas, Numpy, Seaborn, Matplotlib, etc.
+- **Software tools**: Git, Latex, Docker, etc.
+
+<br/> 
+
+## Please direct all inquiries to the following sources:
+- **Academic homepage**:[ https://kevenge.github.io/](https://kevenge.github.io/)
+- **Blog**:[ https://kevenge.github.io/](https://kevenge.github.io/year-archive/)
 
 ## My GPG Public Key
 
